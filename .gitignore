@@ -1,0 +1,9 @@
+# ignore the secret password file
+.env
+
+# ignore the virtual environment folder
+venv/
+
+# ignore Python's internal temporary files
+__pycache__/
+*.py[cod]
